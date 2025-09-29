@@ -23,10 +23,11 @@ Java (Standard Edition)
 
 No third-party libraries required
 
-Getting Started: Running Locally
+## Getting Started: Running Locally
+
 Prerequisites
 
-## Before you begin, ensure you have the following installed on your machine:
+Before you begin, ensure you have the following installed on your machine:
 
 Java JDK 8 or later
 
